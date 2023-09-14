@@ -1,12 +1,12 @@
-# Title: CSTheta
+# Project Title: CSTheta
 
-# Description: 
+# Project Description: 
 CSTheta is a mobile app for online training courses, with features to streamline the learning process, including user registration, course selection, notifications, pricing, profile management, progress tracking, enrollment, ratings, reviews, multi-language support, instructor profiles, chat support, certificates, badges, social media integration, recommendations, and offline courses.
 
-# Technology:
+# Project Technology:
 Flutter (Dart)
 
-# Developer:
+# Project Developer:
 Muhammad Shaheer Khalid
 
 # Course Name:
